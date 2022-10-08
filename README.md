@@ -1,8 +1,10 @@
 # 292-Hours-Thai-Speech-Data-by-Mobile-Phone_Reading
-https://www.datatang.ai/datasets/69
+
 
 ## Description
 Thai speech data (reading) is collected from 498 Thailand native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as econimics, entertainment, news, figure, and oral. Around 400 sentences for each speaker. The valid data volumn is 292 hours. All texts are manual transcribed with high accuray.
+
+For more details, please refer to the link: https://bit.ly/3xOeEBa
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ speech recognition, voiceprint recognition
 
 ## Language
 Thai
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
