@@ -4,7 +4,7 @@
 ## Description
 Thai speech data (reading) is collected from 498 Thailand native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as econimics, entertainment, news, figure, and oral. Around 400 sentences for each speaker. The valid data volumn is 292 hours. All texts are manual transcribed with high accuray.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/69?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/69?source=Github
 
 
 ## Format
